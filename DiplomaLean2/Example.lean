@@ -1,8 +1,8 @@
-import algebra.group.pi
+import Mathlib.Algebra.Group.Pi.Basic
 
 --import LeanCopilot
 
---open Lean Meta LeanCopilot
+--open Lean Meta LeanCopilot`
 
 
 def hello := "world"
